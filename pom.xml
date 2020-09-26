@@ -4,7 +4,7 @@
 
     <groupId>ee.tspace.app</groupId>
     <artifactId>tspace</artifactId>
-    <version>0.0.1-SNAPSHOT</version>
+    <version>0.0.2-SNAPSHOT</version>
     <packaging>jar</packaging>
     <name>Tspace</name>
 
@@ -369,7 +369,7 @@
         <testSourceDirectory>src/test/kotlin</testSourceDirectory>
 
         <plugins>
-            
+
             <plugin>
                 <groupId>org.apache.maven.plugins</groupId>
                 <artifactId>maven-checkstyle-plugin</artifactId>
